@@ -41,7 +41,7 @@ Features
 
 ### Run in your local
 
-- ```git clone https://github.com/sadanandpai/sorting-visualizer.git```
+- ```git clone https://github.com/kanishk44/sorting-visualizer.git```
 - ```npm install``` (after navigating inside the directory)
 - ```npm run dev```
 
